@@ -1,5 +1,5 @@
 window.ybdia=function(){
-	var ybdialog ={
+	return {
 		
 		"version":"5.7.0-1.9",
 		
