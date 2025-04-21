@@ -1,4 +1,4 @@
-ybdia=function(){
+window.ybdia=function(){
 	var ybdialog ={
 		
 		"version":"5.7.0-1.9",
